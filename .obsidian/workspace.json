@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "73984070aa343cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "04de5e9a5d231510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75825a47c5fb0ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Cleaning Data in Python/Practice Questions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db36a6b0881327e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c48cc89305d87ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e3b321392e74b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9fa4447df32609bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec53f87e038143b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a959b0e95cf84b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "083e2c7e3947b144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151df9773ad477de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Understanding Cloud Computing/Chapter 1 - Introduction to Cloud Computing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 1 - Introduction to Cloud Computing"
+            }
+          },
+          {
+            "id": "4bbe3f96ed35f477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Understanding Cloud Computing/Chapter 1 - Introduction to Cloud Computing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 1 - Introduction to Cloud Computing"
+            }
+          },
+          {
+            "id": "95709e2980633f60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02adf1d17dab4550",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Understanding Cloud Computing/Chapter 1 - Introduction to Cloud Computing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 1 - Introduction to Cloud Computing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "75825a47c5fb0ca5",
+  "lastOpenFiles": [
+    "7 - Cleaning Data in Python/Practice Questions.md",
+    "7 - Cleaning Data in Python/Chapter 4 - Record Linkage.md",
+    "7 - Cleaning Data in Python/Chapter 3 - Advanced Data Problems.md",
+    "7 - Cleaning Data in Python/Chapter 2 - Text and categorical data problems.md",
+    "COMPILATION_PROGRESS.md",
+    "COMPREHENSIVE_STUDY_GUIDE.md",
+    "7 - Cleaning Data in Python/Chapter 1 - Common Data Problems.md",
+    "13 - Introduction to Apache Airflow in Python/Chapter 1 - Intro to Airflow.md",
+    "8 - Writing Efficient Python Code/Chapter 1 - Foundations for Efficiencies.md",
+    "6 - Introduction to APIs in Python/Practice Questions.md",
+    "6 - Introduction to APIs in Python/Chapter 2 - More API request concepts.md",
+    "6 - Introduction to APIs in Python/Chapter 1 - Making API Requests with Python.md",
+    "5 - Intermediate Importing Data in Python/Practice Questions.md",
+    "5 - Intermediate Importing Data in Python/Chapter 3 - Diving deep into the Twitter API.md",
+    "5 - Intermediate Importing Data in Python/Chapter 2 - Interacting with APIs to import data from the web.md",
+    "5 - Intermediate Importing Data in Python/Chapter 1 - Importing Flat Files from the Web.md",
+    "4 - Introduction to Importing Data in Python/Practice Questions.md",
+    "4 - Introduction to Importing Data in Python/Chapter 3 - Introduction to Relational Databases.md",
+    "4 - Introduction to Importing Data in Python/Chapter 2 - Importing other File Types.md",
+    "4 - Introduction to Importing Data in Python/Chapter 1 - Introduction and Flat Files.md",
+    "3 - Intermediate Python for Developers/Practice Questions.md",
+    "3 - Intermediate Python for Developers/Chapter 3 - Lambda Functions.md",
+    "3 - Intermediate Python for Developers/Chapter 2 - Working with Functions.md",
+    "3 - Intermediate Python for Developers/Chapter 1 - The Python Ecosystem.md",
+    "2 - Introduction to Python for Developers/Practice Questions.md",
+    "2 - Introduction to Python for Developers/Chapter 3 - Control Flow and Loops.md",
+    "13 - Introduction to Apache Airflow in Python",
+    "12 - ETL and ELT in Python",
+    "11 - Software Engineering Principles in Python",
+    "10 - Introduction to Git",
+    "Chapter 2 - Importing Data from Excel Files",
+    "9 - Streamlined Data Ingestion with Pandas",
+    "8 - Writing Efficient Python Code",
+    "7 - Cleaning Data in Python",
+    "6 - Introduction to APIs in Python",
+    "5 - Intermediate Importing Data in Python",
+    "Attachments/Pasted image 20251016110330.png"
+  ]
+}
